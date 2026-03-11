@@ -8,31 +8,31 @@ const projects = [
     title: "Solid Starters",
     category: "Low-Code Platform",
     tools: "Angular, Next.js, NestJS, MongoDB",
-    image: "/hamzabx-portfolio/images/Solidx.png",
+    image: "/hamzabx-portfolio/images/Solidx.webp",
   },
   {
     title: "Radix",
     category: "E-Commerce",
     tools: "Angular, Next.js, NestJS, CMS",
-    image: "/hamzabx-portfolio/images/radix.png",
+    image: "/hamzabx-portfolio/images/radix.webp",
   },
   {
     title: "Bond Cancellation",
     category: "Import-Export Automation",
     tools: "Angular, Next.js, NestJS, Workflows",
-    image: "/hamzabx-portfolio/images/bond.png",
+    image: "/hamzabx-portfolio/images/bond.webp",
   },
   {
     title: "Sapphire",
     category: "CRM Platform",
     tools: "AngularJS, NestJS, PostgreSQL",
-    image: "/hamzabx-portfolio/images/sapphire.png",
+    image: "/hamzabx-portfolio/images/sapphire.webp",
   },
   {
     title: "Mpro",
     category: "Insurance Platform",
     tools: "React.js, Node.js, Microservices",
-    image: "/hamzabx-portfolio/images/Maxlife.png",
+    image: "/hamzabx-portfolio/images/Maxlife.webp",
   },
 ];
 
