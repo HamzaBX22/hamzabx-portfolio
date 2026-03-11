@@ -13,14 +13,14 @@ import {
 
 const textureLoader = new THREE.TextureLoader();
 const imageUrls = [
-  "/images/react2.webp",
-  "/images/next2.webp",
-  "/images/node2.webp",
-  "/images/express.webp",
-  "/images/mongo.webp",
-  "/images/mysql.webp",
-  "/images/typescript.webp",
-  "/images/javascript.webp",
+  "/hamzabx-portfolio/images/react2.webp",
+  "/hamzabx-portfolio/images/next2.webp",
+  "/hamzabx-portfolio/images/node2.webp",
+  "/hamzabx-portfolio/images/express.webp",
+  "/hamzabx-portfolio/images/mongo.webp",
+  "/hamzabx-portfolio/images/mysql.webp",
+  "/hamzabx-portfolio/images/typescript.webp",
+  "/hamzabx-portfolio/images/javascript.webp",
 ];
 const textures = imageUrls.map((url) => textureLoader.load(url));
 
@@ -199,7 +199,7 @@ const TechStack = () => {
           ))}
         </Physics>
         <Environment
-          files="/models/char_enviorment.hdr"
+          files="/hamzabx-portfolio/models/char_enviorment.hdr"
           environmentIntensity={0.5}
           environmentRotation={[0, 4, 2]}
         />
